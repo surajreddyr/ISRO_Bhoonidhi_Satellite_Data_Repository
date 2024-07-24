@@ -1,0 +1,42 @@
+Satellite,Sensor,Imaging_Spectrum,From,To,Resolution(m),Info
+IRS-1A,LISS1/LISS2,Optical,04-Apr-88,28-May-91,72.5/36.25,"LISS1 - 72.5m
+LISS2 - 36.25m
+Data Availablity: 04-Apr-88 to 28-May-91"
+IRS-1B ,LISS1/LISS2,Optical,02-Oct-91,09-Sep-01,72.5/36.25,"LISS1 - 72.5m
+LISS2 - 36.25m
+Data Availablity: 02-Oct-91 to 09-Sep-01"
+IRS-1C,LISS3/PAN/WIFS,Optical,14-Nov-96,20-Sep-07,23.5/5.8/188,"LISS3 - 23.5m
+PAN - 5.8m
+WIFS - 188m
+Data Availablity: 14-Nov-96 to 20-Sep-07"
+IRS-1D,LISS3,Optical,01-Jan-98,20-Sep-07,23.5/5.8/188,"LISS3 - 23.5m
+PAN - 5.8m
+WIFS - 188m
+Data Availablity: 01-Jan-98 to 20-Sep-07"
+Oceansat-1,OCM,Optical,01-Jul-99,29-Jul-09,1000,"OCM - 1000m
+Data Availablity: 01-Jul-99 to 29-Jul-09"
+Oceansat-2,OCM (LAC / GAC),Optical,31-Dec-09,03-May-23,360/1000,"OCM (LAC) - 360m
+OCM (GAC) - 1000m
+Data Availablity: 31-Dec-09 to 03-May-23"
+Resourcesat-1,AWIFS/LISS3/LISS4,Optical,07-Dec-03,18-Nov-23,56/23.5/5.8,"AWiFS - 56m
+LISS3 - 23.5m
+LISS4 - 5.8m
+Data Availablity: 07-Dec-03 to 18-Nov-23"
+Resourcesat-2,AWIFS/LISS3/LISS4,Optical,08-May-11,,56,"AWiFS - 56m
+LISS3 - 23.5m
+LISS4 - 5.8m
+Data Availablity: 08-May-11 to till date"
+Resourcesat-2A,AWIFS,Optical,18-Dec-16,,56,"AWiFS - 56m
+LISS3 - 23.5m
+LISS4 - 5.8m
+Data Availablity: 18-Dec-16 to till date"
+EOS-06,OCM (LAC / GAC),Optical,01-Apr-23,,366/1080,"OCM (LAC) - 366m
+OCM (GAC) - 1080m
+Data Availablity: 01-Apr-23 to till date"
+RISAT-1 ,CRS / MRS,Microwave,01-Jul-12,30-Sep-16,48,"CRS Mode - 48m (Az)
+MRS Mode - 24m (Az)
+Data Availablity: 01-Jul-12 to 30-Sep-16"
+EOS-04,CRS / MRS,Microwave,23-Mar-22,,50,"CRS Mode - 50m (Az)
+MRS Mode - 33m (Az)
+Data Availablity: 23-Mar-22 to till date"
+Scatsat-1,SCAT,Non Imaging,23-Dec-16,28-Feb-21,,Data Availablity: 23-Dec-16 to 28-Feb-21
