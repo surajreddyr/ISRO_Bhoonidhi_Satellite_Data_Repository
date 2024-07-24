@@ -7,4 +7,4 @@ File2: vistime_R_Script.R - generates the interactive visualisation of the data 
 
 File3: satellite-datasets-bhoonidhi-details.xlsx Database - duplicate of the file satellite-datasets-bhoonidhi-details-jul24.csv in a detailed and different format.
 
-Link to the visualisation -> https://rpubs.com/surajreddy_rs/ISRO_Satellite_Data_Repository_Timeline
+Link to the visualisation published using R code (File2) -> https://rpubs.com/surajreddy_rs/ISRO_Satellite_Data_Repository_Timeline
